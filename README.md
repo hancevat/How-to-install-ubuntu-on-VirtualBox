@@ -44,7 +44,7 @@ Make sure to give your system a username and a new password.
 
 
 
-Now we need to define our systems resources.Here i'll define 2 GB's of ram and cores.
+Now we need to define our systems resources.Here i'll define 2 GB's of ram and 4 cores.
 
 ![6](https://github.com/user-attachments/assets/f3ab29f2-b36c-4e5a-b0ae-80e7dfd61f00)
 
