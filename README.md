@@ -6,7 +6,6 @@ In this tutorial we'll install ubunutu 24.04 LTS version (which is desktop versi
 
 
 First we need to download ubuntu 24.04 LTS version here (https://ubuntu.com/download/desktop) on official ubuntu website.
-11111111
 ![1](https://github.com/user-attachments/assets/a0a3cdab-cb8b-450f-b711-74947621ebbe)
 
 Then we need to download VirtualBox here (https://www.virtualbox.org/wiki/Downloads). Once the download is over, go ahead and intall and open VirtualBox. Then we are set to start installation.
