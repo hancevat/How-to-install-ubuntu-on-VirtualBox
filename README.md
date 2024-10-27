@@ -27,7 +27,9 @@ Go ahead and click new.
 
 
 Name: Just give your machine a name.
+
 Folder: Folder is where you want your system to be located.
+
 ISO Image: here you choose your system's iso file.
 
 Once you are done go ahead and click next
