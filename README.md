@@ -12,7 +12,7 @@ First we need to download ubuntu 24.04 LTS version here (https://ubuntu.com/down
 
 
 
-Then we need to download VirtualBox here (https://www.virtualbox.org/wiki/Downloads). Once the download is over, go ahead and intall and open VirtualBox. Then we are set to start installation.
+Then we need to download VirtualBox here (https://www.virtualbox.org/wiki/Downloads). Once the download is over, install and open VirtualBox. Then we are set to start installation.
 
 
 ![2](https://github.com/user-attachments/assets/9e97aea9-4674-4e56-883b-69e30159e69b)
