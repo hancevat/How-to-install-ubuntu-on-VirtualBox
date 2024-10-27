@@ -50,7 +50,7 @@ Now we need to define our systems resources.Here i'll define 2 GB's of ram and 4
 
 
 
-And 25 GB's of harddisk space.
+And 25 GB's of disk space.
 
 ![7](https://github.com/user-attachments/assets/57488a43-cb51-4bf1-a658-d60db4c693ca)
 
