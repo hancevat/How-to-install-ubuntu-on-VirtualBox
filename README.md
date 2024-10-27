@@ -1,6 +1,6 @@
 # How-to-install-ubuntu-on-VirtualBox
 
-1. INTRODUCTION
+**1. INTRODUCTION**
 
 In this tutorial we'll install ubunutu 24.04 LTS version (which is desktop version) on a virtual box. Virtual box is a virtual machine that you can run any operating sytem on your pc for different purposes. All we need is a internet connected pc.
 
@@ -19,18 +19,18 @@ Then we need to download VirtualBox here (https://www.virtualbox.org/wiki/Downlo
 
 
 
-2. CREATING A VIRTUAL MACHINE
+**2. CREATING A VIRTUAL MACHINE**
 
 Go ahead and click new.
 
 ![3](https://github.com/user-attachments/assets/dd98effa-3364-45df-a47e-b49dd8ea166e)
 
 
-Name: Just give your machine a name.
+*Name:* Just give your machine a name.
 
-Folder: Folder is where you want your system to be located.
+*Folder:* Folder is where you want your system to be located.
 
-ISO Image: here you choose your system's iso file.
+*ISO Image:* here you choose your system's iso file.
 
 Once you are done go ahead and click next
 
@@ -63,7 +63,7 @@ And then click finish to finalize your system installation.
 
 
 
-3. INSTALLING ISO IMAGE
+**3. INSTALLING ISO IMAGE**
 
 Go ahead and click start button to start your virtual machine.
 Once you start you'll see your machine is opening.
